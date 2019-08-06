@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/service01.iml" filepath="$PROJECT_DIR$/.idea/service01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-framework-common.iml" filepath="$PROJECT_DIR$/xc-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-framework-model.iml" filepath="$PROJECT_DIR$/xc-framework-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-framework-parent.iml" filepath="$PROJECT_DIR$/xc-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-framework-utils.iml" filepath="$PROJECT_DIR$/xc-framework-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-service-api.iml" filepath="$PROJECT_DIR$/xc-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xc-service-manage-cms.iml" filepath="$PROJECT_DIR$/xc-service-manage-cms.iml" />
+    </modules>
+  </component>
+</project>
